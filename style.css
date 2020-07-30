@@ -10,7 +10,7 @@ html{
 
 }
 #home{
-  background-image: url(main-bg.jpg);
+  background-image: url(../main-bg.jpg);
   min-height: 100vh;
 
 }
